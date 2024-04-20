@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jake Jackson welcome to my GitHub 
-
+* Biomedical Researcher 🔬
 * Physics of Data MSc at UNIPD 🇮🇹
 * Physics Uni of Liverpool 🇬🇧
 * Physicist :rocket:  
