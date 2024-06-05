@@ -23,7 +23,7 @@
 * [ritetackle.co.uk](https://ritetackle.co.uk)
 --->
 
-# I'm familiar with...
+# I'm experienced with...
 [<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/sklearn.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Dask_Distributed_ML_Project/dask_sklearn_cloud_veneto_jake.ipynb) 
 [<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/mysql.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Class_Problems/mysql/notebooks/1_MySQL.ipynb) 
 [<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/pyspark.png"/>](https://github.com/jjackson1994/MAPDB/tree/main/Class_Problems/spark/notebooks) 
