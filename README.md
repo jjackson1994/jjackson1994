@@ -23,8 +23,6 @@ jjackson1994/jjackson1994 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
 [<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/sklearn.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Dask_Distributed_ML_Project/dask_sklearn_cloud_veneto_jake.ipynb) 
 [<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/mysql.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Class_Problems/mysql/notebooks/1_MySQL.ipynb) 
 [<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/pyspark.png"/>](https://github.com/jjackson1994/MAPDB/tree/main/Class_Problems/spark/notebooks)![bash_logo.png](https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/bash_logo.png)![numpy_logo.png](https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/numpy.png)
@@ -34,3 +32,4 @@ You can click the Preview link to take a look at your changes.
 [<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/sklearn.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Dask_Distributed_ML_Project/dask_sklearn_cloud_veneto_jake.ipynb) 
 [<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/mysql.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Class_Problems/mysql/notebooks/1_MySQL.ipynb) 
 [<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/pyspark.png"/>](https://github.com/jjackson1994/MAPDB/tree/main/Class_Problems/spark/notebooks)![bash_logo.png](https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/bash_logo.png)![numpy_logo.png](https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/numpy.png)
+--->
