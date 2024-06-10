@@ -2,15 +2,13 @@
 
 
 # 👋 Hi, I'm Jake Jackson welcome to my GitHub 
-* Biomedical Researcher 🔬
-* Physics of Data MSc at UNIPD 🇮🇹
-* Physics Uni of Liverpool 🇬🇧
-* Physicist :rocket:  
-* Data Scientist :technologist:  
-* Rock Climber :climbing_man:  
-* Web Developer 🖱️
+•  Biomedical Researcher 🔬 •  Physics of Data MSc at UNIPD 🇮🇹 •  Physics Uni of Liverpool 🇬🇧
+•  Data Scientist :technologist:  •  Rock Climber :climbing_man:  
+•  Web Developer 🖱️
+[<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/banners/Thesis_Norm_flows.png"/>](https://github.com/jjackson1994/Thesis_Normalizing_Flows_for_Binary_Black_Holes)
+[<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/banners/RCNN_conservation.png"/>](https://github.com/jjackson1994/PyTorch_faster_RCNN_for_Underwater_Biodiversity_Monitoring)
+[<img alt="alt_text" src="https://github.com/jjackson1994/jjackson1994/blob/main/images/banners/Hangboard.png"/>](https://hangboardtimer.com/)
 
-📫 Reach me on jakejackson1994@gmail.com
 
 <!---
 ## Websites Built
@@ -40,7 +38,9 @@
 [<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/keras.png"/>](https://github.com/jjackson1994/LaboratoryOfComputationalPhysicsB/blob/main/Exercises/completed_assignments/4_tSNE_DBSCAN.ipynb) 
 [<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/vivado.png"/>](https://github.com/jjackson1994/MAPD) 
 [<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/skimage.png"/>](https://github.com/jjackson1994/MAPDB/blob/8d0acfaee056a5841110d6594fda8b0408ca393f/Dask_Distributed_ML_Project/sklearn_jake.ipynb) 
-[<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/github.jpg"/>](https://github.com/jjackson1994)
+[<img alt="alt_text" width = 150 src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/github.jpg"/>](https://github.com/jjackson1994)  
+  
+📫 Reach me on jakejackson1994@gmail.com
 
 
 
