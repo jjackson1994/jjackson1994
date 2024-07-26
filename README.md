@@ -30,9 +30,9 @@ I’m a Physics of Data Masters graduate working in a biomedical research positi
 <img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/bash_logo.png"/> 
 <img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/numpy.png"/> 
 
-[<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/pytorch.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Dask_Distributed_ML_Project/dask_sklearn_cloud_veneto_jake.ipynb) 
-[<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/xgboost.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Class_Problems/mysql/notebooks/1_MySQL.ipynb) 
-[<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/dask.png"/>](https://github.com/jjackson1994/MAPDB/tree/main/Class_Problems/spark/notebooks) 
+[<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/pytorch.png"/>](https://github.com/jjackson1994/PyTorch_faster_RCNN_for_Underwater_Biodiversity_Monitoring/blob/main/Project_Notebook.ipynb)
+[<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/xgboost.png"/>](https://github.com/jjackson1994/LaboratoryOfComputationalPhysicsB/blob/main/Project/BHB_time_delay_Project.ipynb) 
+[<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/dask.png"/>](https://github.com/jjackson1994/MAPDB/blob/main/Dask_Distributed_ML_Project/Dask_distributed_ML_Turtle_Project%20.ipynb) 
 <img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/pandas.png"/> 
 [<img alt="alt_text" width = 19% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/coding_icons/docker.png"/>](https://github.com/jjackson1994/MAPDB/tree/main/Class_Problems) 
 
