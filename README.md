@@ -8,10 +8,10 @@ I’m a Physics of Data Masters graduate working in a biomedical research positi
 #### •Biomedical Researcher 🔬  •    Physics of Data MSc at UNIPD 🇮🇹  •   MPhys Physics Uni of Liverpool 🇬🇧  
 #### •  Data Scientist :technologist:   •   Rock Climber :climbing_man:   •   Web Developer 🖱️
 
-# Key  Projects
+# Highlights
 [<img alt="alt_text" width=48% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/banners/Thesis_Norm_flows.png"/>](https://github.com/jjackson1994/Thesis_Normalizing_Flows_for_Binary_Black_Holes) [<img alt="alt_text" width=48% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/banners/RCNN_conservation.png"/>](https://github.com/jjackson1994/PyTorch_faster_RCNN_for_Underwater_Biodiversity_Monitoring)
 [<img alt="alt_text" width=48% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/banners/Hangboard.png"/>](https://hangboardtimer.com/)
-
+[<img alt="alt_text" width=48% src="https://github.com/jjackson1994/jjackson1994/blob/main/images/physics_of_data.png"/>](https://github.com/jjackson1994/jjackson1994/blob/main/COURSES.md)
 <!---
 ## Websites Built
 
